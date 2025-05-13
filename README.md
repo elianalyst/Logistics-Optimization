@@ -22,6 +22,6 @@ This project analyzes and optimizes a delivery logistics network using multi-obj
 - SciPy.optimize (nonlinear optimization)
 
 ## Full Report
-To explore the optimization model, equations, and final recommendations, view the complete Jupyter Notebook.
+To explore the optimization model, equations, and final recommendations, check out the full [Logistics Optimization.ipynb](./Logistics%20Optimization.ipynb) notebook.
 
 You can also view the formal write-up for detailed methodology and business context.
